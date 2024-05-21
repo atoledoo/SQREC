@@ -59,9 +59,10 @@ Arrumar de acordo com a estrutura do seu projeto
    - [1.2. Conteúdo do Trabalho](#12-conteúdo-do-trabalho)
 
 [2 FUNDAMENTAÇÃO TEÓRICA](#2-fundamentação-teórica)   
-   - [2.1 Título da seção](#21-título-da-seção)
-   - [2.2 Título da seção](#22-título-da-seção)
-   - [2.3 Título da seção](#23-título-da-seção)
+   - [2.1 Comunicação Organizacional](#21-título-da-seção)
+   - [2.2 Engajamento Organizacional](#22-título-da-seção)
+   - [2.3 Gestão à Vista](#23-título-da-seção)
+   - [2.4 Gestão Diária](#24-título-da-seção)
     
 [3 DESENVOLVIMENTO](#3-desenvolvimento)
    - [3.1 Título da seção](#31-título-da-seção)  
