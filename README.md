@@ -58,7 +58,7 @@ Arrumar de acordo com a estrutura do seu projeto
    - [1.1. Objetivo do Trabalho](#11-objetivo-do-trabalho)
    - [1.2. Conteúdo do Trabalho](#12-conteúdo-do-trabalho)
 
-[2 FUNDAMENTAÇÃO TEÓRICA OU TÉCNICA](#2-fundamentação-teórica-ou-técnica)   
+[2 FUNDAMENTAÇÃO TEÓRICA](#2-fundamentação-teórica)   
    - [2.1 Título da seção](#21-título-da-seção)
    - [2.2 Título da seção](#22-título-da-seção)
    - [2.3 Título da seção](#23-título-da-seção)
