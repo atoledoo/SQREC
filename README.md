@@ -86,11 +86,11 @@ Arrumar de acordo com a estrutura do seu projeto
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O início de cada parágrafo teve ter um recuo de 1,25 e para isso deve se cocar 5 vezes '& n b s p' seguido de um ';', tudo junto e sem espaço.</p> 
 
 <a name="figura-1"></a>
-<p align="center">Figura 1. Título da figura</p> 
+<p align="center">Figura 1. SQCDP Board</p> 
  <p align="center">
-<img src="https://github.com/AndreLuizRibeiro/TG/blob/main/imagem/alinhamento.png" width="100%"> 
+<img src="https://github.com/atoledoo/SQREC/blob/558b97134fda39c5be22885ba0cd8b2fecc253be/Figuras/Figura1.png" width="80%"> 
  </p>
-<p align="justify">Fonte: Fonte da figura</p> 
+<p align="justify">Fonte: starsignsderby (2021).</p> 
 
 ## 1.1 Objetivo do Trabalho
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O objetivo deste trabalho é ...<br></br>
