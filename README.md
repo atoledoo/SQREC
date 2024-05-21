@@ -2,7 +2,7 @@
 
 <p align="justify">Trabalho de Graduação apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Gestão da Produção Industrial.
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/Modelo-para-TG/blob/main/imagem/download.jfif" >
+ <img src="https://github.com/atoledoo/SQREC/blob/36fdda94e58a5200e699a247399b5494ad502340/Figuras/logo%20fatec.png" width="30%"> 
  </p>
 </p>
 
@@ -10,7 +10,7 @@
 </h3>
 </p><br></br>
 
-**Nome do(s) aluno(s)* <h3>  *Ana Clara Toledo de Oliveira e Jhanifer da Silva Morgado* 
+**Nome do(s) aluno(s):** <h3>  *Ana Clara Toledo de Oliveira e Jhanifer da Silva Morgado* 
 </h3><br>
 
 **Orientador:** <h3>  *Profª. Esp. Cássia C. Bordini Cintra* 
@@ -88,7 +88,7 @@ Arrumar de acordo com a estrutura do seu projeto
 <a name="figura-1"></a>
 <p align="center">Figura 1. SQCDP Board</p> 
  <p align="center">
-<img src="https://github.com/atoledoo/SQREC/blob/558b97134fda39c5be22885ba0cd8b2fecc253be/Figuras/Figura1.png" width="80%"> 
+<img src="https://github.com/atoledoo/SQREC/blob/558b97134fda39c5be22885ba0cd8b2fecc253be/Figuras/Figura1.png" width="70%"> 
  </p>
 <p align="justify">Fonte: starsignsderby (2021).</p> 
 
