@@ -6,18 +6,16 @@
  </p>
 </p>
 
- **Título:** <h3> <p align="center"> *Colocar aqui o título do TG* </p>
+ **Título:** <h3> <p align="center"> *SQREC - Uma solução para engajar os colaboradores* </p>
 </h3>
 </p><br></br>
 
-**Nome do aluno:** <h3>  *Colocar aqui o nome do autor* 
+**Nome do(s) aluno(s)* <h3>  *Ana Clara Toledo de Oliveira e Jhanifer da Silva Morgado* 
 </h3><br>
 
-**Orientador:** <h3>  *Colocar aqui o nome do orientador* 
+**Orientador:** <h3>  *Profª. Esp. Cássia C. Bordini Cintra* 
 </h3><br>
 
-**Coorientador:** <h3>  *Colocar aqui o nome do coorientador* 
-</h3><br>
 
 # AGRADECIMENTOS
 
@@ -25,15 +23,15 @@
 
 # RESUMO
 
-<p align="justify">Apresentação concisa dos pontos relevantes do documento deve ser exposta no resumo. No presente caso o resumo será informativo, assim deverá ressaltar o objetivo, a metodologia, os resultados e as conclusões do documento. A ordem desses itens depende do tratamento que cada item recebe no documento original. O resumo deve ser composto por uma sequência de frases concisas, afirmativas e não em enumeração de tópicos.  A primeira frase deve ser significativa, explicando o tema principal do documento. Deve-se usar o verbo na voz ativa e na terceira pessoa do singular. Quanto a sua extensão, o resumo deve possuir de 150 a 500 palavras.</p>
+<p align="justify">Este trabalho aborda a relevância que a comunicação organizacional traz ao engajamento dos colaboradores, de forma a apresentar uma alternativa à ferramenta SQCDP (do acrônimo de Safety, Quality, Costs, Delivery and People) que apresentou baixa performance na empresa Latecoere do Brasil nos quesitos de interação e particapção. O engajamento refere-se ao nível de comprometimento que os empregados têm com o trabalho, a organização e seus objetivos, com isso, acompanhou-se o desenvolvimento da ferramenta SQREC (do acrônimo de Segurança, Qualidade, Recursos, Engajamento e Checar) que busca auxiliar no acompanhamento de indicadores e na melhoria contínua de processos garantindo maior interação e envolvimento entre os colaboradores.</p>
 
-**Palavras-Chave:** Com um mínimo de 3 e no máximo 6 palavras, separadas entre si por ponto e vírgula “;” e finalizadas por ponto. As palavras-chave são palavras representativas do conteúdo do documento.
+**Palavras-Chave:** engajamento; gestão; ferramenta; indicadores; SQCDP.
 
 # ABSTRACT
 
-<p align="justify">O abstract é o resumo da obra em língua estrangeira, que basicamente segue o mesmo conceito e as mesmas regras que o texto em português. Recomenda-se que para o texto do abstract o autor traduza a versão do resumo em português e faça, se necessário, os ajustes referentes à conversão dos idiomas. É importante observar que o título e texto NÃO DEVEM estar em itálico.</p>
+<p align="justify">This work addresses the relevance that organizational communication brings to employee engagement, in order to present an alternative to the SQCDP tool (from the acronym for Safety, Quality, Costs, Delivery and People) which presented low performance in the company Latecoere Brazil in terms of interaction and participation. Engagement refers to the level of commitment that employees have with the work, the organization and its objectives. Therefore, the development of the SQREC tool (from the acronym for Safety, Quality, Resources, Engagement and Check) was followed, which seeks assist in monitoring indicators and continuous improvement of processes, ensuring greater interaction and involvement between employees.</p>
 
-**Keywords:** Recomenda-se que o autor traduza para o inglês as Palavras-Chave em português e faça, se necessário, os ajustes referentes à conversão dos idiomas.
+**Keywords:** engagement; management; tool; indicators, SQCDP.
 
 # LISTA DE FIGURAS
  - [Figura 1](#figura-1)
@@ -82,9 +80,9 @@ Arrumar de acordo com a estrutura do seu projeto
 
 # 1 INTRODUÇÃO
 
- <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A introdução deve conter uma breve revisão sobre o tema do trabalho de graduação,  problematização, relevância, proposta metodológica e objetivos.<br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cada parágrafo deve estar em uma linha diferente.<br></br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para isso é preciso usar a tag '< br >< /br >' tudo junto sem espaço.<br></br>
+ <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nos tempos atuais, com a crescente competitividade no mercado, se tem enfatizado ainda mais a relevância de uma comunicação eficaz nos resultados organizacionais.<br></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diversas organizações, sobretudo, as indústrias, utilizam a gestão diária, um sistema de monitoramento que visa acompanhar a execução das atividades, bem como, identificar e solucionar anomalias de maneira mais ágil, composta por quatro elementos: trabalho padrão, controle visual, processo de responsabilidade diária e disciplina da liderança. Dessa maneira, ao implementar esse sistema, se apresenta como exemplo de Controle Visual, a utilização do método Security, Quality, Costs, Delivery and People, conhecido por seu acrônimo, SQCDP, que une indicadores importantes para organização e se trata de reuniões diárias de curta duração que acontecem na área produtiva e são conduzidas pela liderança com auxílio do quadro SQCDP ilustrado na Figura 1, onde deve ser atualizado os indicadores propostos e as comunicações julgadas como necessárias..<br></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No entanto, a Latecoere do Brasil, uma empresa do segmento aeronáutico, a qual utilizava o método SQCDP em seu ambiente operacional, identificou, no ano de 2023, problemas como a baixa interação entre os colaboradores, excesso de pessoas para um único quadro e a falta de um plano de ações juntamente com o acompanhamento de tarefas, ocasionando a ausência de engajamento nas reuniões.<br></br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O início de cada parágrafo teve ter um recuo de 1,25 e para isso deve se cocar 5 vezes '& n b s p' seguido de um ';', tudo junto e sem espaço.</p> 
 
 <a name="figura-1"></a>
