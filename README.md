@@ -150,11 +150,14 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 # 3 DESENVOLVIMENTO
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para o desenvolvimento deste, acompanhou-se o projeto de desenvolvimento da ferramenta SQREC, com dados fornecidos pela empresa Latecoere do Brasil em conjunto com pesquisas bibliográficas utilizando palavras chaves como “Gestão diária”, “Gestão à vista” e  “Engajamento”. </p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O processo inícial da construção da ferramenta se deu através de um brainstorming, conforme mostrado na Figura 2, com a proposta de revitalizar e abrandar as contrariedades do então utilizado SQCDP, com o objetivo de se ter uma ferramenta que proporcionasse interação e dinamismo.</p>
- 
+
+ <a name="figura-2"></a>
+<p align="center">Figura 2. Brainstorming</p> 
+ <p align="center">
 <p align=center>
-  <img src="https://github.com/thiagonakasone/FOCO-6-SEM/blob/2b6f5c194ee6a7f93b8638572843e4b13a989732/F.png" width=300 heigth=150>
+  <img src="https://github.com/atoledoo/SQREC/blob/0e96f2c9020f9418aabcdcdee658b94b090de6c2/Figuras/Figura2.jpg" width=600 heigth=300>
 </p>
-<br><br>
+<p align="justify">Fonte: Autoria própria (2023).</p>
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No desenvolvimento do SQREC, foram adotados vários princípios da metodologia Lean, centrados na maximização do valor entregue. Entre eles, destaca-se a implementação da gestão à vista, uma estratégia que visa otimizar o desempenho dos projetos através da visualização clara e acessível das informações. Essa prática promove o alinhamento da visão organizacional com os objetivos específicos a serem alcançados, proporcionando uma abordagem mais transparente e eficaz para monitorar e gerenciar o progresso do projeto. Ao adotar a gestão à vista, o SQREC busca promover uma cultura de melhoria contínua e uma maior responsabilidade entre os membros da equipe, fundamentais para o sucesso e a eficácia dos processos organizacionais.</p>
 
