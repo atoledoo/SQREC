@@ -156,7 +156,7 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 # 4 RESULTADOS E DISCUSSÕES
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nos resultados obtidos neste trabalho, se apresenta a criação de uma ferramenta alternativa para comunicação interna organizacional, que foi desenvolvida após uma análise minuciosa de diversos protótipos. Essa abordagem permite compreender de forma abrangente os KPIs (Indicadores-Chave de Desempenho, do inglês Key Performance Indicators) pertinentes a serem incorporados na ferramenta. </p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os indicadores foram selecionados embasados nos valores fundamentais da empresa, destacando a prioridade da segurança dos colaboradores e clientes, seguida pela qualidade como segundo indicador no acrônimo. Além desses, os demais aspectos cruciais para o desempenho eficaz e eficiente das operações organizacionais foram considerados, tais como recursos, engajamento e o acompanhamento do desempenho da linha de produção. Em consonância com esses princípios, foram criadas planilhas no Excel exclusivas para cada célula de trabalho, divididas em seis planilhas dedicadas exclusivamente aos indicadores e aos planos de ação relacionados ao SQREC.</p>
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visando um melhor controle visual, a primeira planilha reúne todos os indicadores em um dashboard que proporciona maior visibilidade da linha de produção bem como a ciência e acompanhamento dos resultados relacionados à segurança, qualidade, disponibilidade de recursos, observações negativas de meio ambiente, quantidade de boas ideias fornecidas, performance da célula e resultado do 5’S, para todos os colaboradores dos níveis operacional, tático e estratégico, conforme a Figura 4. </p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Visando um melhor controle visual, a primeira planilha reúne todos os indicadores em um dashboard que proporciona maior visibilidade da linha de produção bem como a ciência e acompanhamento dos resultados relacionados à segurança, qualidade, disponibilidade de recursos, observações negativas de meio ambiente, quantidade de boas ideias fornecidas, performance da célula e resultado do 5’S, para todos os colaboradores dos níveis operacional, tático e estratégico, conforme a Figura 3. </p>
 <a name="figura-2"></a>
 <p align="center">Figura 3. Dashboard SQREC.</p> 
  <p align="center">
@@ -173,7 +173,7 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 <p align="center">Figura 4. Planilha "Segurança".</p> 
  <p align="center">
 <p align=center>
-  <img src="https://github.com/atoledoo/SQREC/blob/276de2cb5085e5047de21cb08ec879da39ee3563/Figuras/Figura4.png" width=600 heigth=300>
+  <img src="https://github.com/atoledoo/SQREC/blob/042b35f0b37d814fd2b036011fb4f7fa1a7c907b/Figuras/Figura4..png" width=600 heigth=300>
 </p>
 <p align="justify">Fonte: Autoria própria (2023).</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É crucial identificar e avaliar os riscos de segurança para implementar medidas para mitigação desses e, assim, evitar acidentes, assegurando que os colaboradores realizem suas tarefas com segurança. Além disso,  identificar um perigo em uma área de trabalho, pode conscientizar outros funcionários em diferentes setores, contribuindo para fortalecer a cultura de segurança dentro da empresa.</p>
@@ -182,7 +182,7 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 <p align="center">Figura 5. Planilha "Qualidade".</p> 
  <p align="center">
 <p align=center>
-  <img src="https://github.com/atoledoo/SQREC/blob/276de2cb5085e5047de21cb08ec879da39ee3563/Figuras/Figura5.png" width=600 heigth=300>
+  <img src="https://github.com/atoledoo/SQREC/blob/042b35f0b37d814fd2b036011fb4f7fa1a7c907b/Figuras/Figura5..png" width=600 heigth=300>
 </p>
 <p align="justify">Fonte: Autoria própria (2023).</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os indicadores de NCR, scrap e FOE desempenham um papel crucial na análise e resolução interna de problemas, evitando que cheguem ao cliente e se transformem em Notas CD.  Essas notas representam o registro do departamento de garantia de qualidade do cliente para o fornecedor, podendo resultar não apenas em custos de retrabalho, mas também em multas.</p>
@@ -191,7 +191,7 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 <p align="center">Figura 6. Planilha "Recursos".</p> 
  <p align="center">
 <p align=center>
-  <img src="https://github.com/atoledoo/SQREC/blob/276de2cb5085e5047de21cb08ec879da39ee3563/Figuras/Figura5.png" width=600 heigth=300>
+  <img src="https://github.com/atoledoo/SQREC/blob/042b35f0b37d814fd2b036011fb4f7fa1a7c907b/Figuras/Figura6..png" width=600 heigth=300>
 </p>
 <p align="justify">Fonte: Autoria própria (2023).</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É fundamental detectar os recursos faltantes, visando melhorar o planejamento e o controle da produção, evitando possíveis atrasos nas entregas. Nesse sentido, a integração do indicador com o Plano de Ações se torna indispensável para uma rápida tomada de decisões, com o objetivo de garantir a eficiência operacional e minimizar impactos negativos decorrentes da falta de recursos.</p>
@@ -200,7 +200,7 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 <p align="center">Figura 7. Planilha "Engajamento".</p> 
  <p align="center">
 <p align=center>
-  <img src="https://github.com/atoledoo/SQREC/blob/276de2cb5085e5047de21cb08ec879da39ee3563/Figuras/Figura5.png" width=600 heigth=300>
+  <img src="https://github.com/atoledoo/SQREC/blob/042b35f0b37d814fd2b036011fb4f7fa1a7c907b/Figuras/Figura7..png" width=600 heigth=300>
 </p>
 <p align="justify">Fonte: Autoria própria (2023).</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Identificar os aspectos negativos relacionados ao ambiente é fundamental no caminho do progresso da sustentabilidade nas empresas, uma vez que isso leva os funcionários a se conscientizarem sobre as questões ambientais. Adicionalmente, a discussão de tópicos como o programa de boas ideias e os resultados do método 5S estimula os colaboradores a adotarem uma cultura de melhoria contínua.</p>
@@ -209,7 +209,7 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 <p align="center">Figura 8. Planilha "Checar".</p> 
  <p align="center">
 <p align=center>
-  <img src="https://github.com/atoledoo/SQREC/blob/276de2cb5085e5047de21cb08ec879da39ee3563/Figuras/Figura5.png" width=600 heigth=300>
+  <img src="https://github.com/atoledoo/SQREC/blob/042b35f0b37d814fd2b036011fb4f7fa1a7c907b/Figuras/Figura8.png" width=600 heigth=300>
 </p>
 <p align="justify">Fonte: Autoria própria (2023).</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A utilização desta planilha é fundamental para simplificar a gestão dos líderes das áreas, pois viabiliza uma tomada de decisão mais rápida e assertiva, graças à representação visual dos locais de trabalho e seus estados atuais.</p>
