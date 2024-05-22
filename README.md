@@ -194,7 +194,7 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 <p align="justify">Fonte: Autoria própria (2023).</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É crucial identificar e avaliar os riscos de segurança para implementar medidas para mitigação desses e, assim, evitar acidentes, assegurando que os colaboradores realizem suas tarefas com segurança. Além disso,  identificar um perigo em uma área de trabalho, pode conscientizar outros funcionários em diferentes setores, contribuindo para fortalecer a cultura de segurança dentro da empresa.</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A 3ª planilha, conforme a Figura 5, corresponde aos itens de Qualidade, onde deve ser quantificado o número de Não Conformidades Externas (Nota CD), que são os problemas de qualidade encontrados pelo cliente, Não Conformidades Internas (NCR), scrap (peças retrabalhadas) e FOE (Foreign Object Elimination).</p>
-<a name="figura-2"></a>
+<a name="figura-5"></a>
 <p align="center">Figura 5. Planilha "Qualidade".</p> 
  <p align="center">
 <p align=center>
@@ -203,6 +203,52 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 <p align="justify">Fonte: Autoria própria (2023).</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os indicadores de NCR, scrap e FOE desempenham um papel crucial na análise e resolução interna de problemas, evitando que cheguem ao cliente e se transformem em Notas CD.  Essas notas representam o registro do departamento de garantia de qualidade do cliente para o fornecedor, podendo resultar não apenas em custos de retrabalho, mas também em multas.</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A 4ª planilha, correspondente a Figura 6, representa os indicadores voltados ao atendimento de recursos utilizados na fabricação dos produtos. Nesta, deve-se quantificar os faltantes e indicá-los no plano de ações para que as áreas de apoio possam agir rapidamente. </p>
+<a name="figura-6"></a>
+<p align="center">Figura 6. Planilha "Recursos".</p> 
+ <p align="center">
+<p align=center>
+  <img src="https://github.com/atoledoo/SQREC/blob/276de2cb5085e5047de21cb08ec879da39ee3563/Figuras/Figura5.png" width=600 heigth=300>
+</p>
+<p align="justify">Fonte: Autoria própria (2023).</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É fundamental detectar os recursos faltantes, visando melhorar o planejamento e o controle da produção, evitando possíveis atrasos nas entregas. Nesse sentido, a integração do indicador com o Plano de Ações se torna indispensável para uma rápida tomada de decisões, com o objetivo de garantir a eficiência operacional e minimizar impactos negativos decorrentes da falta de recursos.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A quinta planilha, representada na Figura 7, é focada no engajamento dos operadores, destinando-se a questões direcionadas ao departamento pessoal da empresa. Além disso, ela inclui um indicador para quantificar aspectos negativos relacionados ao meio ambiente, como vazamento de água e uso desnecessário de ventiladores. Essa planilha também registra a quantidade semanal de Eurekas (boas ideias) e fornece um link para os resultados da Célula de Excelência, um projeto que visa engajar o SQREC com o melhor desempenho do mês.</p>
+<a name="figura-7"></a>
+<p align="center">Figura 7. Planilha "Engajamento".</p> 
+ <p align="center">
+<p align=center>
+  <img src="https://github.com/atoledoo/SQREC/blob/276de2cb5085e5047de21cb08ec879da39ee3563/Figuras/Figura5.png" width=600 heigth=300>
+</p>
+<p align="justify">Fonte: Autoria própria (2023).</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Identificar os aspectos negativos relacionados ao ambiente é fundamental no caminho do progresso da sustentabilidade nas empresas, uma vez que isso leva os funcionários a se conscientizarem sobre as questões ambientais. Adicionalmente, a discussão de tópicos como o programa de boas ideias e os resultados do método 5S estimula os colaboradores a adotarem uma cultura de melhoria contínua.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Por fim, na última planilha, mostrada na Figura 8, encontra-se o acompanhamento dos postos de trabalho da célula e suas respectivas performances.</p>
+<a name="figura-8"></a>
+<p align="center">Figura 8. Planilha "Checar".</p> 
+ <p align="center">
+<p align=center>
+  <img src="https://github.com/atoledoo/SQREC/blob/276de2cb5085e5047de21cb08ec879da39ee3563/Figuras/Figura5.png" width=600 heigth=300>
+</p>
+<p align="justify">Fonte: Autoria própria (2023).</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A utilização desta planilha é fundamental para simplificar a gestão dos líderes das áreas, pois viabiliza uma tomada de decisão mais rápida e assertiva, graças à representação visual dos locais de trabalho e seus estados atuais.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De acordo com pesquisas de satisfação realizadas semestralmente com os operadores que utilizam a ferramenta, cerca de 80% acreditam que houve uma melhoria na interação e no engajamento dos colaboradores após sua implementação. Além disso, o SQREC foi relevante no fortalecimento dos valores organizacionais, enriquecendo ainda mais a cultura de segurança na empresa, como pode ser observado na Figura 9, onde o gráfico compara o número de acidentes ocorridos na planta no mesmo período durante o início da implementação e hoje, com a ferramenta já consolidada.</p>
+<a name="figura-9"></a>
+<p align="center">Figura 9. Planilha "Quantidade de Acidentes Latecoere do Brasil - 1º Semestre".</p> 
+ <p align="center">
+<p align=center>
+  <img src="https://github.com/atoledoo/SQREC/blob/276de2cb5085e5047de21cb08ec879da39ee3563/Figuras/Figura5.png" width=600 heigth=300>
+</p>
+<p align="justify">Fonte: Autoria própria (2023).</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O artifício idem foi o ponto de partida para outras melhorias, como um Kaizen, projeto de curta duração que visa a melhoria de processos, na gestão de recursos faltantes que visou a redução no número de faltantes, e o projeto Célula de Excelência, que visa reconhecer e engajar ainda mais as células que atingirem melhor desempenho, que analisa diversos critérios como entregas no prazo e o número de ideias implementadas, que evidencia o engajamento do time com os resultados de seu trabalho.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portanto, os resultados obtidos, tais como a conclusão da nova ferramenta, seus benefícios, aprovação dos usuários e as melhorias envolvidas, evidenciam a eficácia e a relevância da nova ferramenta de comunicação fabril na otimização dos processos industriais, especialmente no engajamento dos trabalhadores. Sua implementação, sobretudo em conjunto com o projeto descrito acima, Célula de Excelência, constatou melhorias significativas na eficiência das operações e no envolvimento dos funcionários na excelência operacional.</p>
+
+
+
+
+
+
+
+
+
+
 
 
 # 5 CONSIDERAÇÕES FINAIS
