@@ -218,7 +218,7 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 <p align="center">Figura 9. Planilha "Quantidade de Acidentes Latecoere do Brasil - 1º Semestre".</p> 
  <p align="center">
 <p align=center>
-  <img src="https://github.com/atoledoo/SQREC/blob/1c60fb09fb8a2ac13ff7dc4b5c576322a506b410/Figuras/Figura9.png" width=600 heigth=300>
+  <img src="https://github.com/atoledoo/SQREC/blob/1c60fb09fb8a2ac13ff7dc4b5c576322a506b410/Figuras/Figura9.png" width=400 heigth=200>
 </p>
 <p align="justify">Fonte: Autoria própria (2023).</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O recurso idem foi o ponto de partida para outras melhorias, como um Kaizen, projeto de curta duração que visa a melhoria de processos, na gestão de recursos faltantes que visou a redução no número de faltantes, e o projeto Célula de Excelência, que visa reconhecer e engajar ainda mais as células que atingirem melhor desempenho, que analisa diversos critérios como entregas no prazo e o número de ideias implementadas, que evidencia o engajamento do time com os resultados de seu trabalho.</p>
