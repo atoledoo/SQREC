@@ -224,22 +224,31 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O artifício idem foi o ponto de partida para outras melhorias, como um Kaizen, projeto de curta duração que visa a melhoria de processos, na gestão de recursos faltantes que visou a redução no número de faltantes, e o projeto Célula de Excelência, que visa reconhecer e engajar ainda mais as células que atingirem melhor desempenho, que analisa diversos critérios como entregas no prazo e o número de ideias implementadas, que evidencia o engajamento do time com os resultados de seu trabalho.</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portanto, os resultados obtidos, tais como a conclusão da nova ferramenta, seus benefícios, aprovação dos usuários e as melhorias envolvidas, evidenciam a eficácia e a relevância da nova ferramenta de comunicação fabril na otimização dos processos industriais, especialmente no engajamento dos trabalhadores. Sua implementação, sobretudo em conjunto com o projeto descrito acima, Célula de Excelência, constatou melhorias significativas na eficiência das operações e no envolvimento dos funcionários na excelência operacional.</p>
 
-
-
-
-
-
-
-
-
-
-
-
 # 5 CONSIDERAÇÕES FINAIS
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esta é a parte final do trabalho, referindo-se às hipóteses discutidas anteriormente. A conclusão é uma resposta para a problemática do tema proposto na introdução, com base nos resultados que o(s) autor(es) avaliou e interpretou.</p> 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os resultados deste estudo evidenciam que a introdução da ferramenta SQREC conduz a melhorias expressivas nos parâmetros avaliados, ao passo que estimula um maior envolvimento dos funcionários em suas tarefas. Além disso, a utilização desse recurso se mostrou fundamental para a agilidade e exatidão das decisões tomadas, assim como para a prontidão diante de possíveis desafios. A confiança e o conhecimento dos colaboradores em relação às suas responsabilidades emergem como elementos chaves para o êxito da implementação. Assim, é altamente recomendável que se adote de maneira consistente e aprofundada a ferramenta SQREC como parte essencial das práticas de gestão organizacional, não apenas visando aprimorar os resultados, mas também fortalecer o comprometimento e eficiência das equipes.</p>
 
 # REFERÊNCIAS
-**Sobrenome, Nome do Autor**;*Título do Livro ou Artigo*;Nome da Fonte;**Ano de Publicação**;[https://www.exemplo.com](https://www.exemplo.com)
+CRUZ, F. **Scrum e Agile em projetos: guia completo**. Rio de Janeiro: Brasport, 2018. 508 p.
+
+FRANÇA, L. **Cultura de confiança: a arte do engajamento para times fortes e que geram resultados**. [S. l.]: Editora Gente, 2022. 202 p.
+
+**GESTÃO DIÁRIA: Conheça os 4 elementos e veja como implementar**. [S. l.], 11 ago. 2022. Disponível em: https://www.nortegubisian.com.br/blog/gestao-diaria-conheca-os-4-elementos/#:~:text=A%20gest%C3%A3o%20di%C3%A1ria%20%C3%A9%20um%20sistema%20de%20acompanhamento%20que%20permite,apresenta%20algum%20tipo%20de%20desvio. Acesso em: 31 mar. 2024.
+
+IMAI, M. **Gemba Kaizen: commonsense approach to a continuous improvement strategy**. Nova Iorque: McGraw-Hill Professional Publishing, 2012. 426 p.
+
+Kahn, William A. **Psychological conditions of personal engagement and disengagement at work**. Academy of Management Journal, v. 33, n. 4, p. 692-724, 1990.
+
+KREPS, G. **Organizational Communication: Theory and Practice**. 2. ed. Londres: Pearson Education, 1990. 331 p.
+
+NAVAS, R. **Engajamento no trabalho: entenda o conceito e importância para seu negócio**. [S. l.], 2021. Disponível em: https://www.pulses.com.br/blog/engajamento-entenda-o-conceito-e-importancia-para-seu-negocio/#:~:text=O%20Engajamento%20no%20trabalho%20%C3%A9,o%20bem%2Destar%20da%20equipe. Acesso em: 25 nov. 2023.
+
+PEDRA, B. **Engajamento do colaborador: história, desafios e novas abordagens. história, desafios e novas abordagens**. 2022. Disponível em: https://pinpeople.com.br/blog/so-engajamento-nao-e-suficiente. Acesso em: 21 maio 2024.
+
+RIBEIRO, N. **Gestão à vista na construção: o que é e por que aplicar?. o que é e por que aplicar?**. 2023. Disponível em: https://www.prevision.com.br/blog/gestao-a-vista/#:~:text=A%20gest%C3%A3o%20%C3%A0%20vista%20Lean,atividades%20priorit%C3%A1rias%20que%20os%20comp%C3%B5em.. Acesso em: 20 maio 2024.
+
+SILVA, L. **O que é gestão à vista?: saiba como aplicar na sua empresa. Saiba como aplicar na sua empresa**. 2023. Disponível em: https://pluga.co/blog/gestao-a-vista/. Acesso em: 20 maio 2024.
+
+VILLAFAÑE, J. (1998). **Imagem Positiva - Gestão estratégica da imagem das empresas**. Lisboa: Lisboa: Edições Sílabo.
 
 # ANEXOS
 Se necesario colocar anexos aqui
