@@ -19,7 +19,7 @@
 
 # AGRADECIMENTOS
 
-<p align="justify">Na página de agradecimentos o autor dirige palavras de reconhecimento àqueles que contribuíram para a elaboração do trabalho. O conteúdo não deve ultrapassar uma página e por isso, é necessário que ele seja sucinto e objetivo.</p>
+<p align="justify">Gostaríamos de expressar nossa sincera gratidão à empresa Latecoere do Brasil por nos autorizar a realizar este trabalho. Seu apoio foi fundamental para o sucesso deste projeto. Agradecemos também à nossa orientadora Cássia Cintra pela orientação e apoio ao longo deste trabalho, às nossas famílias, amigos e colegas de curso pelo incentivo e suporte ao longo desta jornada acadêmicao.</p>
 
 # RESUMO
 
@@ -40,20 +40,8 @@
  - [Figura 4](#figura-4)
  - [Figura 5](#figura-5)
 
-# LISTA DE TABELAS
- - [Tabela 1](#tabela-1)
- - [Tabela 2](#tabela-2)
- - [Tabela 3](#tabela-3)
- - [Tabela 4](#tabela-4)
-
-# LISTA DE QUADROS
- - [Quadro 1](#quadro-1)
- - [Quadro 2](#quadro-2)
- - [Quadro 3](#quadro-3)
    
 # SUMÁRIO
-Arrumar de acordo com a estrutura do seu projeto
-
 [1 INTRODUÇÃO](#1-introdução)
    - [1.1. Objetivo do Trabalho](#11-objetivo-do-trabalho)
    - [1.2. Conteúdo do Trabalho](#12-conteúdo-do-trabalho)
@@ -65,12 +53,8 @@ Arrumar de acordo com a estrutura do seu projeto
    - [2.4 Gestão Diária](#24-gestão-diária)
     
 [3 DESENVOLVIMENTO](#3-desenvolvimento)
-   - [3.1 Título da seção](#31-título-da-seção)  
-   - [3.2 Título da seção](#32-título-da-seção)
      
 [4 RESULTADOS E DISCUSSÕES](#4-resultados-e-discussões)
-   - [4.1 Título da seção](#41-título-da-seção)
-   - [4.2 Título da seção](#42-título-da-seção)
    
 [5 CONSIDERAÇÕES FINAIS](#5-considerações-finais)
 
