@@ -2,7 +2,7 @@
 
 <p align="justify">Trabalho de Graduação apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Gestão da Produção Industrial.
 <p align="center">
- <img src="https://github.com/atoledoo/SQREC/blob/36fdda94e58a5200e699a247399b5494ad502340/Figuras/logo%20fatec.png" width="30%"> 
+ <img src="https://github.com/AndreLuizRibeiro/Modelo-para-TG/blob/main/imagem/download.jfif" width="30%"> 
  </p>
 </p>
 
@@ -39,8 +39,12 @@
  - [Figura 3](#figura-3)
  - [Figura 4](#figura-4)
  - [Figura 5](#figura-5)
+ - [Figura 6](#figura-6)
+ - [Figura 7](#figura-7)
+- [Figura 8](#figura-8)
+- [Figura 9](#figura-9)
 
-   
+
 # SUMÁRIO
 [1 INTRODUÇÃO](#1-introdução)
    - [1.1. Objetivo do Trabalho](#11-objetivo-do-trabalho)
@@ -102,7 +106,7 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 
 ## 2.1 Comunicação Organizacional
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A comunicação organizacional desempenha um papel fundamental no funcionamento eficiente e eficaz de uma organização. Segundo Villafañe (1998), seu principal objetivo é fornecer, de forma estratégica, apoio estrutural ao projeto organizacional, criando e compartilhando informações que preparam os colaboradores para cooperar entre si e se organizar de maneira eficiente, além de contribuir para a construção de uma base de conhecimento coletivo, promovendo harmonia e colaboração.</p> 
-<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbspAo adotar a comunicação organizacional como suporte estrutural ao projeto organizacional, os gestores podem utilizar estratégias e ferramentas de comunicação para alinhar as atividades da organização com os objetivos estratégicos. Uma comunicação eficaz facilita a disseminação de informações e fortalece a cultura organizacional, promovendo um ambiente de trabalho mais colaborativo e flexível.</p>
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbspAo adotar a comunicação como suporte estrutural ao projeto organizacional, os gestores podem utilizar estratégias e ferramentas de comunicação para alinhar as atividades da organização com os objetivos estratégicos. Uma comunicação eficaz facilita a disseminação de informações e fortalece a cultura organizacional, promovendo um ambiente de trabalho mais colaborativo e flexível.</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A comunicação interna deve ser adaptada às características e necessidades específicas de cada organização. Isso inclui a escolha dos canais de comunicação mais adequados, a definição de uma linguagem e tom de comunicação consistentes e a implementação de práticas que incentivem a participação e o engajamento dos colaboradores.</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dentro desse contexto, é importante considerar que a comunicação organizacional não se limita apenas à transmissão de informações, mas também engloba a construção de relacionamentos interpessoais, o estabelecimento de canais de feedback e a promoção de uma cultura de abertura e transparência.</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Além disso, a troca de informações internas desempenha um papel crucial no desenvolvimento do engajamento organizacional. Este, por sua vez, é essencial para compreender o nível de dedicação e envolvimento dos colaboradores com a organização, visando o bem-estar da equipe alinhado aos valores da organização.</p>
