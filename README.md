@@ -215,7 +215,7 @@ Colocar aqui uma lista dos capítulos do trabalho e seus respectivos conteúdos
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A utilização desta planilha é fundamental para simplificar a gestão dos líderes das áreas, pois viabiliza uma tomada de decisão mais rápida e assertiva, graças à representação visual dos locais de trabalho e seus estados atuais.</p>
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De acordo com pesquisas de satisfação realizadas semestralmente com os operadores que utilizam a ferramenta, cerca de 80% acreditam que houve uma melhoria na interação e no engajamento dos colaboradores após sua implementação. Além disso, o SQREC foi relevante no fortalecimento dos valores organizacionais, enriquecendo ainda mais a cultura de segurança na empresa, como pode ser observado na Figura 9, onde o gráfico compara o número de acidentes ocorridos na planta no mesmo período durante o início da implementação e hoje, com a ferramenta já consolidada.</p>
 <a name="figura-9"></a>
-<p align="center">Figura 9. Planilha "Quantidade de Acidentes Latecoere do Brasil - 1º Semestre".</p> 
+<p align="center">Figura 9.Quantidade de Acidentes Latecoere do Brasil - 1º Semestre".</p> 
  <p align="center">
 <p align=center>
   <img src="https://github.com/atoledoo/SQREC/blob/1c60fb09fb8a2ac13ff7dc4b5c576322a506b410/Figuras/Figura9.png" width=400 heigth=200>
